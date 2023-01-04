@@ -37,3 +37,17 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 }
+
+button {
+  display: block;
+  margin: 30px auto;
+  width: 20%;
+  border-radius: 20px;
+  background-color: #4ecca3;
+}
+
+button p {
+  color: #fff;
+
+  text-shadow: 2px 0 rgb(129, 127, 127);
+}
